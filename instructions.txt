@@ -1,0 +1,16 @@
+2 method to take input form user
+1.promt box
+2.html form
+
+
+promt box value always recive as a string
+
+alert is a predifine function
+
+1.initiallization
+2.condition checking
+3.increment/decrement
+
+
+<   = greater than
+>   =  less than
